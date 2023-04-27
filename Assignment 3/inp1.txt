@@ -1,0 +1,12 @@
+10
+Z 5
+X 0.8
+C 3
+X 5
+C 0.6
+Z 3
+X 0.9
+C 4
+X 1
+C 2
+OOOOSSTSSOOSS
