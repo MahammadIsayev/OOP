@@ -1,0 +1,5 @@
+Peter Kiliti0512 carp 20 catfish 20 catfish 20
+Peter Szeged0820 catfish 20 catfish 20 carp 20
+Peter Gesztes0906 carp 20 catfish 20 catfish 20
+Bob Kiliti0512 carp 20 carp 20 catfish 20
+Bob Szeged0820 carp 20 carp 20 catfish 20
